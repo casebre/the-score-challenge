@@ -53,7 +53,7 @@
                 android:layout_marginTop="4dp">
 
                 <TextView
-                    android:text="@string/wins_label"
+                    android:text="@string/losses_label"
                     android:textColor="@color/fontTitle"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"/>
